@@ -1,5 +1,8 @@
 # 🚀 CDRE2022 jp
 _Change Detection dataset specialized for Riverbank Erosion 2022_  
+![Badge Status](https://img.shields.io/github/license/coldriv/CDRE2022)
+![Badge Status](https://img.shields.io/github/issues/coldriv/CDRE2022)
+![Badge Status](https://img.shields.io/github/stars/coldriv/CDRE2022)
 
 河岸侵食に特化した教師なし変状検知・異常検知のための河川CCTVカメラ画像のデータセットです。  
 512×640ピクセルに成形してあります。
